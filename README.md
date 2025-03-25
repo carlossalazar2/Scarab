@@ -1,4 +1,4 @@
-# Scarab
+HKMP# Scarab
 ![build](https://github.com/fifty-six/Scarab/actions/workflows/dotnet.yml/badge.svg)
 ![GitHub all releases](https://img.shields.io/github/downloads/fifty-six/Scarab/total)
 
